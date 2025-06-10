@@ -1,40 +1,58 @@
-<h2 align="left">Tecnologias</h2>
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá, eu sou o Augusto Farias dos Santos!
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&size=30&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Backend+em+formação;Amante+de+tecnologia+e+desafios;Apaixonado+por+código+limpo+e+funcional;Sempre+em+busca+de+aprender+mais" alt="Typing SVG" />
 </div>
 
-###
+---
 
-<h2 align="left">Midias sociais</h2>
+## 👨‍💻 Sobre mim
 
-###
+Sou um **desenvolvedor backend** com grande entusiasmo por tecnologia e aprendizado contínuo. Apesar do meu foco principal estar no backend, também gosto de ver as coisas ganharem vida no frontend.
 
-<div align="left">
+Atualmente estudo e trabalho com tecnologias como **C#/.NET**, **SQL Server**, **MySQL** e **JavaScript**. Tenho interesse em boas práticas como **Clean Code**, **SOLID** e **arquiteturas escaláveis**, buscando sempre evoluir como profissional e contribuir para projetos reais.
+
+🎯 Meus principais objetivos no momento:
+- Aprofundar conhecimentos em **.NET moderno** e **bancos de dados relacionais**;
+- Construir projetos completos para meu portfólio;
+- Compartilhar minha jornada de aprendizado e crescimento como desenvolvedor.
+
+---
+
+## ⚙️ Tecnologias & Ferramentas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,php,mysql,sqlserver,postgres,redis,rabbitmq,elasticsearch,docker,git,github,vscode,visualstudio,linux&theme=dark" />
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AugustoAFS&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub de Augusto" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoAFS&layout=compact&hide_border=true&title_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+---
+
+## 🐍 Snake eating my contributions
+
+<div align="center">
+  <img src="https://github.com/AugustoAFS/AugustoAFS/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</div>
+
+## 🌐 Onde me encontrar
+
+<div align="center">
   <a href="https://www.linkedin.com/in/augusto-farias-dos-santos/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:augusto.farias.2003@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
 
-###
-
-<div align="left">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AugustoAFS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500">
 </div>
-
-###

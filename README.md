@@ -1,19 +1,27 @@
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá, eu sou o Augusto Farias dos Santos!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&size=30&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Backend+em+formação;Amante+de+tecnologia+e+desafios;Apaixonado+por+código+limpo+e+funcional;Sempre+em+busca+de+aprender+mais" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&size=30&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Backend+em+formação;Sempre+em+busca+de+aprender+mais" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AugustoAFS&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AugustoAFS&theme=dark&hide_border=true" />
+</div>
+
 Sou um **desenvolvedor backend** com grande entusiasmo por tecnologia e aprendizado contínuo. Apesar do meu foco principal estar no backend, também gosto de ver as coisas ganharem vida no frontend.
 
 Atualmente estudo e trabalho com tecnologias como **C#/.NET**, **SQL Server**, **MySQL** e **JavaScript**. Tenho interesse em boas práticas como **Clean Code**, **SOLID** e **arquiteturas escaláveis**, buscando sempre evoluir como profissional e contribuir para projetos reais.
 
 🎯 Meus principais objetivos no momento:
-- Aprofundar conhecimentos em **.NET moderno** e **bancos de dados relacionais**;
+- Aprofundar conhecimentos em **.NET** e **bancos de dados relacionais**;
 - Construir projetos completos para meu portfólio;
 - Compartilhar minha jornada de aprendizado e crescimento como desenvolvedor.
 
@@ -23,6 +31,10 @@ Atualmente estudo e trabalho com tecnologias como **C#/.NET**, **SQL Server**, *
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,php,mysql,sqlserver,postgres,redis,rabbitmq,elasticsearch,docker,git,github,vscode,visualstudio,linux&theme=dark" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoAFS&layout=compact&hide_border=true&title_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 ---
@@ -35,12 +47,6 @@ Atualmente estudo e trabalho com tecnologias como **C#/.NET**, **SQL Server**, *
 </div>
 
 ---
-
-## 🐍 Snake eating my contributions
-
-<div align="center">
-  <img src="https://github.com/AugustoAFS/AugustoAFS/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</div>
 
 ## 🌐 Onde me encontrar
 

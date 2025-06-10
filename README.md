@@ -33,7 +33,7 @@ Atualmente estudo e trabalho com tecnologias como **C#/.NET**, **SQL Server**, *
 </div>
 
 <div align="center">
-  <img src="https://github.com/AugustoAFS/AugustoAFS/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github.com/AugustoAFS/AugustoAFS/blob/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
 </div>
 
 ## Onde me encontrar

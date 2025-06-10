@@ -18,14 +18,10 @@ Atualmente estudo e trabalho com tecnologias como **C#/.NET**, **SQL Server**, *
 ## ⚙️ Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,php,mysql,sqlserver,postgres,redis,rabbitmq,elasticsearch,docker,git,github,vscode,visualstudio,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,angular,react,php,mysql,sqlserver,postgres,redis,rabbitmq,elasticsearch,docker,git,github,vscode,visualstudio,linux&theme=dark" />
 </div>
 
 ## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AugustoAFS&theme=dark&hide_border=true" />
-</div>
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AugustoAFS&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub de Augusto" />

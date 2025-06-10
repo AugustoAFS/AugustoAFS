@@ -18,7 +18,7 @@ Atualmente estudo e trabalho com tecnologias como **C#/.NET**, **SQL Server**, *
 ## ⚙️ Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,angular,react,php,mysql,sqlserver,postgres,redis,rabbitmq,elasticsearch,docker,git,github,vscode,visualstudio,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,angular,react,php,mysql,sqlserver,postgres,redis,rabbitmq,elasticsearch,docker,git,github,vscode,visualstudio,linux,java,spring,html,css,scss,tailwind,jquery,postman,swagger&theme=dark" />
 </div>
 
 ## 📊 Estatísticas do GitHub

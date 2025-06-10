@@ -19,7 +19,7 @@ Atualmente estudo e trabalho com tecnologias como **C#/.NET**, **SQL Server**, *
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,angular,react,php,mysql,postgres,redis,rabbitmq,elasticsearch,docker,git,github,vscode,visualstudio,linux,java,spring,html,css,scss,tailwind,jquery,postman,swagger&theme=dark" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sql server logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" padding="10" height="40" alt="sql server logo" />
 </div>
 
 ## 📊 Estatísticas do GitHub

@@ -17,8 +17,8 @@ Curitiba, PR · remoto ou híbrido · **disponível para novas oportunidades**
 <h3><img src="assets/readme/section-stack.svg" width="560" alt="Stack"></h3>
 
 <p>
-  <img src="assets/readme/stack-principal.svg" width="430" alt="Principal: C#, .NET, Angular, TypeScript, SQL Server e PostgreSQL.">
-  <img src="assets/readme/stack-complementar.svg" width="420" alt="Complementar: Redis, RabbitMQ, Docker, Java, Spring, React e Git. Práticas: DDD, Clean Architecture, SOLID, testes automatizados, CI/CD e Scrum.">
+  <img src="assets/readme/stack-principal.svg" width="380" alt="Principal: C#, .NET, Angular, TypeScript, SQL Server e PostgreSQL.">
+  <img src="assets/readme/stack-complementar.svg" width="370" alt="Complementar: Redis, RabbitMQ, Docker, Java, Spring, React e Git. Práticas: DDD, Clean Architecture, SOLID, testes automatizados, CI/CD e Scrum.">
 </p>
 
 <picture>

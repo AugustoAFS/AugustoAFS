@@ -26,6 +26,4 @@ Curitiba, PR · remoto ou híbrido · **disponível para novas oportunidades**
   <img src="https://raw.githubusercontent.com/AugustoAFS/AugustoAFS/output/github-contribution-grid-snake.svg" width="100%" alt="Cobrinha percorrendo o gráfico de contribuições">
 </picture>
 
-<p align="right">
-  <img src="assets/readme/signature.svg" width="300" alt="Rubrica de Augusto Farias dos Santos">
-</p>
+<a href="https://augustosantos.com.br/"><img src="assets/readme/footer.svg" width="100%" alt="Rubrica de Augusto Farias dos Santos"></a>

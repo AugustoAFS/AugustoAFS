@@ -1,49 +1,31 @@
-# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá, sou Augusto Farias dos Santos!
+<img src="assets/readme/header.svg" width="100%" alt="Augusto Farias dos Santos — Desenvolvedor Fullstack">
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&size=30&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Backend+em+formação;Apaixonado+por+tecnologia;Sempre+em+busca+de+aprender+mais" alt="Typing SVG" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1500&color=FF5277&vCenter=true&width=440&height=44&lines=APIs+REST+em+C%23+e+ASP.NET+Core;Aplica%C3%A7%C3%B5es+Angular+com+TypeScript;SQL+Server%2C+PostgreSQL+e+RabbitMQ;DDD%2C+testes+automatizados+e+CI%2FCD">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1500&color=C81E4A&vCenter=true&width=440&height=44&lines=APIs+REST+em+C%23+e+ASP.NET+Core;Aplica%C3%A7%C3%B5es+Angular+com+TypeScript;SQL+Server%2C+PostgreSQL+e+RabbitMQ;DDD%2C+testes+automatizados+e+CI%2FCD" alt="APIs REST em C# e ASP.NET Core · Aplicações Angular com TypeScript · SQL Server, PostgreSQL e RabbitMQ · DDD, testes automatizados e CI/CD">
+</picture>
 
-## 👨‍💻 Sobre mim
+<a href="https://www.linkedin.com/in/augusto-farias-dos-santos/"><img src="assets/readme/btn-linkedin.svg" height="44" alt="LinkedIn"></a>
+<a href="https://augustosantos.com.br/PDF/Curriculo-Augusto-Farias-dos-Santos.pdf"><img src="assets/readme/btn-curriculo.svg" height="44" alt="Currículo (PDF)"></a>
+<a href="mailto:augusto.farias.2003@gmail.com"><img src="assets/readme/btn-email.svg" height="44" alt="E-mail"></a>
+<a href="https://augustosantos.com.br/"><img src="assets/readme/btn-portfolio.svg" height="44" alt="Portfólio"></a>
 
-Sou um **desenvolvedor backend** com grande entusiasmo por tecnologia. Apesar do meu foco principal estar no backend, também gosto de ver as coisas ganharem vida no frontend.
+Trabalho nas duas pontas de aplicações web: APIs em C# e ASP.NET Core e interfaces em Angular, com SQL Server e PostgreSQL na persistência. Minha experiência profissional está detalhada no [currículo](https://augustosantos.com.br/PDF/Curriculo-Augusto-Farias-dos-Santos.pdf).
 
-Atualmente estudo e trabalho com tecnologias como **C#/.NET**, **SQL Server**, **MySQL** e **JavaScript**. Tenho interesse em boas práticas como **Clean Code**, **SOLID** e **arquiteturas escaláveis**, buscando sempre evoluir como profissional e contribuir com o meu conhecimento.
+Curitiba, PR · remoto ou híbrido · **disponível para novas oportunidades**
 
-🎯 Meus principais objetivos no momento:
-- Aprofundar conhecimentos em **.NET** e **bancos de dados relacionais**;
-- Construir projetos completos para meu portfólio;
-- Compartilhar minha jornada de aprendizado e crescimento como desenvolvedor.
+<h3><img src="assets/readme/section-stack.svg" width="560" alt="Stack"></h3>
 
-## ⚙️ Tecnologias & Ferramentas
+<p>
+  <img src="assets/readme/stack-principal.svg" width="430" alt="Principal: C#, .NET, Angular, TypeScript, SQL Server e PostgreSQL.">
+  <img src="assets/readme/stack-complementar.svg" width="420" alt="Complementar: Redis, RabbitMQ, Docker, Java, Spring, React e Git. Práticas: DDD, Clean Architecture, SOLID, testes automatizados, CI/CD e Scrum.">
+</p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,angular,react,php,mysql,postgres,redis,rabbitmq,elasticsearch,docker,git,github,vscode,visualstudio,linux,java,spring,html,css,scss,tailwind,jquery,postman,swagger&theme=dark" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" padding="10" height="40" alt="sql server logo" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AugustoAFS/AugustoAFS/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/AugustoAFS/AugustoAFS/output/github-contribution-grid-snake.svg" width="100%" alt="Cobrinha percorrendo o gráfico de contribuições">
+</picture>
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AugustoAFS&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub de Augusto" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoAFS&layout=compact&hide_border=true&title_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
-<div align="center">
-  <img src="https://github.com/AugustoAFS/AugustoAFS/blob/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
-</div>
-
-## Onde me encontrar
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/augusto-farias-dos-santos/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:augusto.farias.2003@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500">
-</div>
+<p align="right">
+  <img src="assets/readme/signature.svg" width="300" alt="Rubrica de Augusto Farias dos Santos">
+</p>
